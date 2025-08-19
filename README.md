@@ -1,4 +1,4 @@
-# Mods ASSUSTADORES para a versão 1.19.2 do Minecraft FORGE.
+# Versão 1.19.2 do Minecraft FORGE.
 Opa galera! Bem-vindos ao meu repositório do modpack de terror que fiz.
 Aqui é onde irei atualizar devidamente o modpack assim que possível.
 
