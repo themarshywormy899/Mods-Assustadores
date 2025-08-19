@@ -3,7 +3,7 @@ Opa galera! Bem-vindos ao meu repositório do modpack de terror que fiz.
 Aqui é onde irei atualizar devidamente o modpack assim que possível.
 
 # Como instalar?
-(No PC) Aperte as teclas Windows + R e escreva %appdata%, aperte OK e em seguida clique na pasta ".minecraft". Jogue todos os arquivos .jar dentro da pasta "mods". 
+(No PC) Aperte as teclas Windows + R e escreva %appdata%, aperte OK e em seguida clique na pasta ".minecraft". Apos isso, jogue todos os arquivos .jar dentro da pasta "mods". 
 
 
 # Versão para PC e Mobile.
